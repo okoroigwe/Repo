@@ -1,0 +1,37 @@
+# SMART TXT FILE
+
+Project Name: My First Web Page
+Author: Okoroigwe Olisaemeka Paul
+Year: 2025
+
+Description:
+This project is a simple HTML website designed for beginners.
+It demonstrates basic HTML structure, simple CSS styling,
+and a small JavaScript interaction using a button.
+
+Files Included:
+
+* index.html : Main webpage file
+* README.md  : Project documentation
+* SMART_INFO.txt : Quick reference information (this file)
+
+How to Use:
+
+1. Locate the index.html file
+2. Open it with any web browser (Chrome, Edge, Firefox)
+3. Click the "Click Me" button on the page
+4. A confirmation message will appear
+
+Features:
+
+* Clean page layout
+* Header, main content, and footer
+* Interactive button
+* Beginner-friendly design
+
+Purpose:
+This smart TXT file provides a quick overview of the project
+without formatting or extra tools. It can be opened with
+any text editor such as Notepad or VS Code.
+
+## End of File
